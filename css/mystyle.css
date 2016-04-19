@@ -12,10 +12,10 @@
     z-index:1;
 }
 .jumbotron {position:relative;padding:50px;}
-.jumbotron .container {z-index:2;
+.jumbotron .container {
     position:relative;
     z-index:2;
 }
-#fruit-name {
-    color: blue;
+.fruit-name {
+    color: red;
 }
